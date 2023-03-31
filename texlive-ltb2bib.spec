@@ -1,6 +1,6 @@
 Name:		texlive-ltb2bib
 Version:	43746
-Release:	1
+Release:	2
 Summary:	Converts amsrefs' .ltb bibliographical databases to BibTeX format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltb2bib
