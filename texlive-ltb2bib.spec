@@ -3,7 +3,7 @@ Version:	43746
 Release:	2
 Summary:	Converts amsrefs' .ltb bibliographical databases to BibTeX format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltb2bib
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ltb2bib
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltb2bib.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltb2bib.doc.r%{version}.tar.xz
